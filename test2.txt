@@ -2,4 +2,6 @@ new file commit without add!
 
 changed at working space and commited
 
-checkout vs reset
+ # checkout vs reset
+
+
