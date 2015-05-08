@@ -10,3 +10,6 @@ var s = 'sfsfsf';
 var dog = {};
 
 dog.name ="";
+
+
+test for reset --soft mixed hard
